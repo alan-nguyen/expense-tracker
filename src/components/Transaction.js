@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Transaction = () => {
+export const Transaction = ({ transaction }) => {
   return (
     <div>
       <li className="minus">
