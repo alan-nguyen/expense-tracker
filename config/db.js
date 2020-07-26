@@ -17,4 +17,4 @@ const connectDB = async () => {
   }
 };
 
-module.exporst = connectDB;
+module.exports = connectDB;
